@@ -9,6 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^7.5.9",
+    "@neondatabase/serverless": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "drizzle-kit": "^0.31.10",
+    "drizzle-orm": "^0.45.2",
+    "nanoid": "^5.1.11",
     "next": "16.2.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"
