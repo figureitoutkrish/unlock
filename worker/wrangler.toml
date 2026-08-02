@@ -8,4 +8,4 @@ id = "324a66b7d3784beaa4b74d97e447f604"
 preview_id = "324a66b7d3784beaa4b74d97e447f604"
 
 [vars]
-APP_BASE_URL = "http://localhost:3000"
+APP_BASE_URL = "https://unlock-psi-two.vercel.app"
