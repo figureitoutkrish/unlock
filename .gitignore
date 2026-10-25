@@ -42,3 +42,8 @@ next-env.d.ts
 
 # Cloudflare Worker local state
 worker/.wrangler/
+
+# AI assistant notes stay local
+.claude/
+AGENTS.md
+CLAUDE.md
