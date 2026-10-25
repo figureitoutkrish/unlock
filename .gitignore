@@ -47,3 +47,4 @@ worker/.wrangler/
 .claude/
 AGENTS.md
 CLAUDE.md
+vercel.env
