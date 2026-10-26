@@ -77,4 +77,4 @@ You need a Neon `DATABASE_URL`, Clerk keys, and a Cloudflare account with a KV n
 
 ---
 
-Built by [Krish Viramgama](https://github.com/figureitoutkrish).
+Built by [Krish Viramgama](https://github.com/figureitoutwithkrish).
